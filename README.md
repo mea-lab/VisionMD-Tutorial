@@ -24,3 +24,6 @@
 <div align="center">
     <img src="VisionMD_Pipeline.png" alt="Pipeline" />
 </div>
+
+## Tutorial - Full
+[![Watch the video](https://img.youtube.com/vi/nEziXfARw8o/maxresdefault.jpg)](https://youtu.be/nEziXfARw8o)
