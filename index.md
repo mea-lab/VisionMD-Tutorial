@@ -1,7 +1,5 @@
 ---
 layout: page
-title: VisionMD
-subtitle: VisionMD: An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders
 full-width: true
 ---
 <h1 align="center">VisionMD: An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders</h1>
