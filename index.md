@@ -1,6 +1,5 @@
 ---
-layout: page
-full-width: true
+layout: default
 ---
 <h1 align="center">VisionMD: An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders</h1>
 <div align="center">
