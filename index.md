@@ -78,3 +78,4 @@ layout: default
 
 ## Sample Data
 **Download sample videos to process using VisionMD**
+https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata
