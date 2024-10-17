@@ -65,3 +65,13 @@ full-width: true
    Django version 4.2.11, using settings 'backend.settings'
    Starting development server at http://127.0.0.1:8000/
    Quit the server with CONTROL-C.
+5. **Open Google Chrome**  
+   (This program has only been tested with Google Chrome; other browsers might provide unexpected behavior.)
+
+6. **Access the Application**  
+   In the URL bar, type: `http://127.0.0.1:8080` and hit Enter.  
+   VisionMD will open, and you are now able to use the software.
+
+7. **Close the Application**  
+   Once you are done using VisionMD, return to the Terminal window and hit `CONTROL + C`.  
+   Close the Terminal window and then close Google Chrome.
