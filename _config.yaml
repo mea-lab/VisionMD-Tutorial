@@ -1,2 +1,3 @@
-theme: jekyll-theme-slate
 title: "VisionMD"
+theme: jekyll-theme-slate
+description: "An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders"
