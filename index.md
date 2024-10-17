@@ -65,6 +65,7 @@ full-width: true
    Django version 4.2.11, using settings 'backend.settings'
    Starting development server at http://127.0.0.1:8000/
    Quit the server with CONTROL-C.
+    ```
 5. **Open Google Chrome**  
    (This program has only been tested with Google Chrome; other browsers might provide unexpected behavior.)
 
