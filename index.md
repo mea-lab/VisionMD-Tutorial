@@ -42,11 +42,11 @@ layout: default
 ## Tutorial - Single Task
 [![Watch the video](https://img.youtube.com/vi/jZDgEBjXwP8/maxresdefault.jpg)](https://youtu.be/jZDgEBjXwP8)
 
-## Download the Tool
+## Download the Tool - MacOs
 
 [![Download VisionMD](https://img.icons8.com/material-outlined/50/000000/download--v1.png)](https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&st=6jl50jcg&dl=0) 
 
-## Installation Instructions
+## Installation Instructions - MacOs
 
 1. **Unzip the File**  
    Once downloaded, unzip the file.
