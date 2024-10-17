@@ -21,6 +21,10 @@ full-width: true
   <a href="https://github.com/mea-lab/VideoAnalysisToolBackend/tree/dev">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80">
   </a>
+  &nbsp;&nbsp; 
+  <a href="https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&e=1&st=6jl50jcg&dl=0" target="_blank">
+    <img src="download_logo.jpg" alt="Download" width="80">
+  </a>
 </p>
 
 ## Abstract
