@@ -42,3 +42,26 @@ full-width: true
 
 ## Tutorial - Single Task
 [![Watch the video](https://img.youtube.com/vi/jZDgEBjXwP8/maxresdefault.jpg)](https://youtu.be/jZDgEBjXwP8)
+
+## Download the Tool
+
+[![Download VisionMD](https://img.icons8.com/material-outlined/50/000000/download--v1.png)](https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&st=6jl50jcg&dl=0) 
+
+## Installation Instructions
+
+1. **Unzip the File**  
+   Once downloaded, unzip the file.
+
+2. **Launch the Application**  
+   Double click on `VisionMD`.
+
+3. **Open the Terminal**  
+   A Terminal window will open, showing some progress while the program starts.
+
+4. **View the Startup Message**  
+   After a few seconds, you will see the following message in the Terminal:
+
+   ```bash
+   Django version 4.2.11, using settings 'backend.settings'
+   Starting development server at http://127.0.0.1:8000/
+   Quit the server with CONTROL-C.
