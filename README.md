@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/mea-lab/VideoAnalysisToolBackend/tree/dev">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80">
   </a>
 </p>
 
