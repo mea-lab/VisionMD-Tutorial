@@ -35,5 +35,3 @@
 
 ## Tutorial - Single Task
 [![Watch the video](https://img.youtube.com/vi/jZDgEBjXwP8/maxresdefault.jpg)](https://youtu.be/jZDgEBjXwP8)
-
-## How to download? - For MacOs
