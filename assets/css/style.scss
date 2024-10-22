@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+  background-color: #FFA500; /* Orange background */
+  color: #333333; /* Dark text */
+}
+
+.page-header {
+  background-color: #FF8C00; /* Darker orange header */
+  color: #FFFFFF; /* White header text */
+}
+
+a {
+  color: #FFFFFF; /* White links */
+}
+
+.btn {
+  background-color: #FF8C00; /* Button background color */
+  color: #FFFFFF; /* Button text color */
+}
