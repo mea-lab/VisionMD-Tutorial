@@ -16,16 +16,6 @@ layout: default
 <br>
 <sup>5</sup>Department of Neurology, University of Florida. 
 
-<p align="center">
-  <a href="https://github.com/mea-lab/VideoAnalysisToolBackend/tree/dev">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80">
-  </a>
-  &nbsp;&nbsp; 
-  <a href="https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&e=1&st=6jl50jcg&dl=0" target="_blank">
-    <img src="files/download_logo.jpg" alt="Download" width="80">
-  </a>
-</p>
-
 ## Abstract
 <div style="background-color: #D3D3D3; padding: 10px; border-radius: 5px; margin: 20px 0;">
   <p>Assessing motor function is crucial for Parkinson’s disease (PD) management, yet  the widely used MDS-UPDRS has significant limitations, largely owing to rater subjectivity. We introduce VisionMD, an open-source software for semi-automatic motor function analysis from videos of the MDS-UPDRS motor tasks, enhancing objectivity and accessibility. Two datasets were analyzed to validate VisionMD, each featuring 12 PD patients performing a Finger Tapping (FT) task under varying interventional conditions: Deep Brain Stimulation (DBS-ON/OFF) and dopaminergic medication. Significant differences were observed in movement variability between DBS-ON/OFF and movement speed between MED-ON/OFF. VisionMD demonstrated excellent inter-rater reliability (ICC = 0.96 – 1.00) compared to traditional MDS-UPDRS evaluation (ICC = 0.74). VisionMD provides a scalable, objective tool for assessing motor symptoms in persons with movement disorders, offering high reliability and potential for widespread clinical and research use</p>
