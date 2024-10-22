@@ -5,5 +5,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 #remote_theme: pages-themes/midnight@v0.2.0
 title: "VisionMD"
 description: An user-friendly, open-source software platform designed to automate video-based kinematic analysis of motor tasks for assessment of motor dysfunction in movement disorders
+show_downloads: true
 github:
-  repository_url: https://github.com/mea-lab
+  repository_url: https://github.com/mea-lab/VideoAnalysisToolBackend/tree/dev
+  zip_url: https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip
