@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: "VisionMD"
 description: "An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders"
+github:
+  zip_url: https://github.com/mea-lab
