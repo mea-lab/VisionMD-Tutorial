@@ -4,7 +4,7 @@ layout: default
 
 <h1 align="center">VisionMD: An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabrielaacevedot/" target="_blank">Gabriela T. Acevedo T.</a><sup>1</sup>, Florian Lange<sup>2</sup>, Carolina Calonge<sup>1</sup>, Robert Peach<sup>2</sup>, Joshua K. Wong<sup>3,5</sup>, Diego L. Guarin<sup>1,2</sup>
+  <a href="https://www.linkedin.com/in/gabrielaacevedot/" target="_blank">Gabriela T. Acevedo T.</a><sup>1</sup>, Florian Lange<sup>2</sup>, Carolina Calonge<sup>1</sup>, Robert Peach<sup>2</sup>, Joshua K. Wong<sup>3,5</sup>, <a href="https://www.linkedin.com/in/diego-guarin/" target="_blank">Diego L. Guarin</a><sup>1,2</sup>
 </div>
 <br>
 <sup>1</sup>Movement Estimation and Analysis Laboratory, Department of Applied Physiology and Kinesiology, University of Florida.
