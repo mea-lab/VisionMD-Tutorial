@@ -4,5 +4,4 @@
 ### Has an outline
 #remote_theme: pages-themes/midnight@v0.2.0
 remote_theme: pages-themes/tactile@v0.2.0
-title: "VisionMD"
-description: "An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders"
+title: "VisionMD: An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders"
