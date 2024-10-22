@@ -80,7 +80,6 @@ layout: default
 **Download sample videos to process using VisionMD**
 <p align="center">
   <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata" target="_blank">
-    <img src="files/sample_data.png" alt="Sample Data" width="80">
+    <img src="files/sample_data.png" alt="Sample Data" width="100">
   </a>
 </p>
-[Sample Data](https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata)
