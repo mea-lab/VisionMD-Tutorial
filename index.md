@@ -1,77 +1,76 @@
 ---
 layout: default
 ---
-<div class="container">
-  <h1 align="center">VisionMD: An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders</h1>
-  <div align="center">
-    Gabriela T. Acevedo T.<sup>1</sup>, Florian Lange<sup>2</sup>, Carolina Calonge<sup>1</sup>, Robert Peach<sup>2</sup>, Joshua K. Wong<sup>3,5</sup>, Diego L. Guarin<sup>1,2</sup>
-  </div>
-  <br>
-  <sup>1</sup>Movement Estimation and Analysis Laboratory, Department of Applied Physiology and Kinesiology, University of Florida.
-  <br>
-  <sup>2</sup>Department of Neurology, University of Würzburg.
-  <br>
-  <sup>3</sup>Fixel Institute for Neurological Disease, University of Florida.
-  <br>
-  <sup>4</sup>Crayton Pruitt Family Department of Biomedical Engineering, University of Florida.
-  <br>
-  <sup>5</sup>Department of Neurology, University of Florida. 
-  
-  ## Abstract
-  <div style="background-color: #C7EFCF; padding: 10px; border-radius: 5px; margin: 20px 0;">
-    <p>Assessing motor function is crucial for Parkinson’s disease (PD) management, yet  the widely used MDS-UPDRS has significant limitations, largely owing to rater subjectivity. We introduce VisionMD, an open-source software for semi-automatic motor function analysis from videos of the MDS-UPDRS motor tasks, enhancing objectivity and accessibility. Two datasets were analyzed to validate VisionMD, each featuring 12 PD patients performing a Finger Tapping (FT) task under varying interventional conditions: Deep Brain Stimulation (DBS-ON/OFF) and dopaminergic medication. Significant differences were observed in movement variability between DBS-ON/OFF and movement speed between MED-ON/OFF. VisionMD demonstrated excellent inter-rater reliability (ICC = 0.96 – 1.00) compared to traditional MDS-UPDRS evaluation (ICC = 0.74). VisionMD provides a scalable, objective tool for assessing motor symptoms in persons with movement disorders, offering high reliability and potential for widespread clinical and research use</p>
-  </div>
-  
-  ## Pipeline
-  <div align="center">
-      <img src="files/VisionMD.png" alt="Pipeline" />
-  </div>
-  
-  ## Tutorial - Full
-  [![Watch the video](https://img.youtube.com/vi/nEziXfARw8o/maxresdefault.jpg)](https://youtu.be/nEziXfARw8o)
-  
-  ## Tutorial - Single Task
-  [![Watch the video](https://img.youtube.com/vi/jZDgEBjXwP8/maxresdefault.jpg)](https://youtu.be/jZDgEBjXwP8)
-  
-  ## Download the Tool - MacOs
-  
-  [![Download VisionMD](https://img.icons8.com/material-outlined/50/000000/download--v1.png)](https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&st=6jl50jcg&dl=0) 
-  
-  ## Installation Instructions - MacOs
-  
-  1. **Unzip the File**  
-     Once downloaded, unzip the file.
-  
-  2. **Launch the Application**  
-     Double click on `VisionMD`.
-  
-  3. **Open the Terminal**  
-     A Terminal window will open, showing some progress while the program starts.
-  
-  4. **View the Startup Message**  
-     After a few seconds, you will see the following message in the Terminal:
-  
-     ```bash
-     Django version 4.2.11, using settings 'backend.settings'
-     Starting development server at http://127.0.0.1:8000/
-     Quit the server with CONTROL-C.
-      ```
-  5. **Open Google Chrome**  
-     This program has only been tested with Google Chrome; other browsers might provide unexpected behavior.
-  
-  6. **Access the Application**  
-     In the URL bar, type: `http://127.0.0.1:8080` and hit Enter.  
-     VisionMD will open, and you are now able to use the software.
-  
-  7. **Close the Application**  
-     Once you are done using VisionMD, return to the Terminal window and hit `CONTROL + C`.  
-     Close the Terminal window and then close Google Chrome.
-  
-  ## Sample Data
-  Click to get sample videos to process using VisionMD
-  <br>
-  <br>
-  <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata" target="_blank">
-    <img src="files/sample_data.png" alt="Sample Data" width="500">
-  </a>
+
+<h1 align="center">VisionMD: An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders</h1>
+<div align="center">
+  Gabriela T. Acevedo T.<sup>1</sup>, Florian Lange<sup>2</sup>, Carolina Calonge<sup>1</sup>, Robert Peach<sup>2</sup>, Joshua K. Wong<sup>3,5</sup>, Diego L. Guarin<sup>1,2</sup>
 </div>
+<br>
+<sup>1</sup>Movement Estimation and Analysis Laboratory, Department of Applied Physiology and Kinesiology, University of Florida.
+<br>
+<sup>2</sup>Department of Neurology, University of Würzburg.
+<br>
+<sup>3</sup>Fixel Institute for Neurological Disease, University of Florida.
+<br>
+<sup>4</sup>Crayton Pruitt Family Department of Biomedical Engineering, University of Florida.
+<br>
+<sup>5</sup>Department of Neurology, University of Florida. 
+
+## Abstract
+<div style="background-color: #C7EFCF; padding: 10px; border-radius: 5px; margin: 20px 0;">
+  <p>Assessing motor function is crucial for Parkinson’s disease (PD) management, yet  the widely used MDS-UPDRS has significant limitations, largely owing to rater subjectivity. We introduce VisionMD, an open-source software for semi-automatic motor function analysis from videos of the MDS-UPDRS motor tasks, enhancing objectivity and accessibility. Two datasets were analyzed to validate VisionMD, each featuring 12 PD patients performing a Finger Tapping (FT) task under varying interventional conditions: Deep Brain Stimulation (DBS-ON/OFF) and dopaminergic medication. Significant differences were observed in movement variability between DBS-ON/OFF and movement speed between MED-ON/OFF. VisionMD demonstrated excellent inter-rater reliability (ICC = 0.96 – 1.00) compared to traditional MDS-UPDRS evaluation (ICC = 0.74). VisionMD provides a scalable, objective tool for assessing motor symptoms in persons with movement disorders, offering high reliability and potential for widespread clinical and research use</p>
+</div>
+
+## Pipeline
+<div align="center">
+    <img src="files/VisionMD.png" alt="Pipeline" />
+</div>
+
+## Tutorial - Full
+[![Watch the video](https://img.youtube.com/vi/nEziXfARw8o/maxresdefault.jpg)](https://youtu.be/nEziXfARw8o)
+
+## Tutorial - Single Task
+[![Watch the video](https://img.youtube.com/vi/jZDgEBjXwP8/maxresdefault.jpg)](https://youtu.be/jZDgEBjXwP8)
+
+## Download the Tool - MacOs
+
+[![Download VisionMD](https://img.icons8.com/material-outlined/50/000000/download--v1.png)](https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&st=6jl50jcg&dl=0) 
+
+## Installation Instructions - MacOs
+
+1. **Unzip the File**  
+   Once downloaded, unzip the file.
+
+2. **Launch the Application**  
+   Double click on `VisionMD`.
+
+3. **Open the Terminal**  
+   A Terminal window will open, showing some progress while the program starts.
+
+4. **View the Startup Message**  
+   After a few seconds, you will see the following message in the Terminal:
+
+   ```bash
+   Django version 4.2.11, using settings 'backend.settings'
+   Starting development server at http://127.0.0.1:8000/
+   Quit the server with CONTROL-C.
+    ```
+5. **Open Google Chrome**  
+   This program has only been tested with Google Chrome; other browsers might provide unexpected behavior.
+
+6. **Access the Application**  
+   In the URL bar, type: `http://127.0.0.1:8080` and hit Enter.  
+   VisionMD will open, and you are now able to use the software.
+
+7. **Close the Application**  
+   Once you are done using VisionMD, return to the Terminal window and hit `CONTROL + C`.  
+   Close the Terminal window and then close Google Chrome.
+
+## Sample Data
+Click to get sample videos to process using VisionMD
+<br>
+<br>
+<a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata" target="_blank">
+  <img src="files/sample_data.png" alt="Sample Data" width="500">
+</a>
