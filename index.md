@@ -22,7 +22,7 @@ layout: default
   </a>
   &nbsp;&nbsp; 
   <a href="https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&e=1&st=6jl50jcg&dl=0" target="_blank">
-    <img src="download_logo.jpg" alt="Download" width="80">
+    <img src="files/download_logo.jpg" alt="Download" width="80">
   </a>
 </p>
 
@@ -33,7 +33,7 @@ layout: default
 
 ## Pipeline
 <div align="center">
-    <img src="VisionMD_Pipeline.png" alt="Pipeline" />
+    <img src="files/VisionMD_Pipeline.png" alt="Pipeline" />
 </div>
 
 ## Tutorial - Full
