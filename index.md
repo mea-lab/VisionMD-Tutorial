@@ -33,7 +33,7 @@ layout: default
 
 ## Pipeline
 <div align="center">
-    <img src="files/VisionMD_Pipeline.png" alt="Pipeline" />
+    <img src="files/VisionMD.png" alt="Pipeline" />
 </div>
 
 ## Tutorial - Full
