@@ -65,6 +65,8 @@ layout: default
 Click to get sample videos to process using VisionMD
 <br>
 <br>
-<a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata" target="_blank">
-  <img src="files/sample_data.png" alt="Sample Data" width="500">
-</a>
+<div align="center">
+  <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata" target="_blank">
+    <img src="files/sample_data.png" alt="Sample Data" width="500">
+  </a>
+</div>
