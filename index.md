@@ -27,15 +27,9 @@ layout: default
     <img src="files/VisionMD.png" alt="Pipeline" />
 </div>
 
-# Tutorial - Full
+# Tutorials
 [![Watch the video](https://img.youtube.com/vi/nEziXfARw8o/maxresdefault.jpg)](https://youtu.be/nEziXfARw8o)
-
-# Tutorial - Single Task
 [![Watch the video](https://img.youtube.com/vi/jZDgEBjXwP8/maxresdefault.jpg)](https://youtu.be/jZDgEBjXwP8)
-
-# Download the Tool - MacOs
-
-[![Download VisionMD](https://img.icons8.com/material-outlined/50/000000/download--v1.png)](https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&st=6jl50jcg&dl=0) 
 
 # Installation Instructions - MacOs
 
