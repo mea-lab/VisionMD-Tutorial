@@ -77,7 +77,7 @@ layout: default
    Close the Terminal window and then close Google Chrome.
 
 ## Sample Data
-**Download sample videos to process using VisionMD**
+Click to get sample videos to process using VisionMD
 <br>
 <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata" target="_blank">
   <img src="files/sample_data.png" alt="Sample Data" width="500">
