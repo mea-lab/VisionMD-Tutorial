@@ -34,8 +34,49 @@
     <img src="VisionMD_Pipeline.png" alt="Pipeline" />
 </div>
 
-## Tutorial - Full
+## Tutorials
 [![Watch the video](https://img.youtube.com/vi/nEziXfARw8o/maxresdefault.jpg)](https://youtu.be/nEziXfARw8o)
-
-## Tutorial - Single Task
 [![Watch the video](https://img.youtube.com/vi/jZDgEBjXwP8/maxresdefault.jpg)](https://youtu.be/jZDgEBjXwP8)
+
+# Download the Tool - MacOs
+
+[![Download VisionMD](https://img.icons8.com/material-outlined/50/000000/download--v1.png)](https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&st=6jl50jcg&dl=0) 
+
+# Installation Instructions - MacOs
+
+1. **Unzip the File**  
+   Once downloaded, unzip the file.
+
+2. **Launch the Application**  
+   Double click on `VisionMD`.
+
+3. **Open the Terminal**  
+   A Terminal window will open, showing some progress while the program starts.
+
+4. **View the Startup Message**  
+   After a few seconds, you will see the following message in the Terminal:
+
+   ```bash
+   Django version 4.2.11, using settings 'backend.settings'
+   Starting development server at http://127.0.0.1:8000/
+   Quit the server with CONTROL-C.
+    ```
+5. **Open Google Chrome**  
+   This program has only been tested with Google Chrome; other browsers might provide unexpected behavior.
+
+6. **Access the Application**  
+   In the URL bar, type: `http://127.0.0.1:8080` and hit Enter.  
+   VisionMD will open, and you are now able to use the software.
+
+7. **Close the Application**  
+   Once you are done using VisionMD, return to the Terminal window and hit `CONTROL + C`.  
+   Close the Terminal window and then close Google Chrome.
+
+# Sample Data
+Click to get sample videos to process using VisionMD
+<br>
+<br>
+<a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata" target="_blank">
+  <img src="files/sample_data.png" alt="Sample Data" width="500">
+</a>
+
