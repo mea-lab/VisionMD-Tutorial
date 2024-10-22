@@ -22,22 +22,22 @@ layout: default
   <p>Assessing motor function is crucial for Parkinson’s disease (PD) management, yet  the widely used MDS-UPDRS has significant limitations, largely owing to rater subjectivity. We introduce VisionMD, an open-source software for semi-automatic motor function analysis from videos of the MDS-UPDRS motor tasks, enhancing objectivity and accessibility. Two datasets were analyzed to validate VisionMD, each featuring 12 PD patients performing a Finger Tapping (FT) task under varying interventional conditions: Deep Brain Stimulation (DBS-ON/OFF) and dopaminergic medication. Significant differences were observed in movement variability between DBS-ON/OFF and movement speed between MED-ON/OFF. VisionMD demonstrated excellent inter-rater reliability (ICC = 0.96 – 1.00) compared to traditional MDS-UPDRS evaluation (ICC = 0.74). VisionMD provides a scalable, objective tool for assessing motor symptoms in persons with movement disorders, offering high reliability and potential for widespread clinical and research use</p>
 </div>
 
-## Pipeline
+# Pipeline
 <div align="center">
     <img src="files/VisionMD.png" alt="Pipeline" />
 </div>
 
-## Tutorial - Full
+# Tutorial - Full
 [![Watch the video](https://img.youtube.com/vi/nEziXfARw8o/maxresdefault.jpg)](https://youtu.be/nEziXfARw8o)
 
-## Tutorial - Single Task
+# Tutorial - Single Task
 [![Watch the video](https://img.youtube.com/vi/jZDgEBjXwP8/maxresdefault.jpg)](https://youtu.be/jZDgEBjXwP8)
 
-## Download the Tool - MacOs
+# Download the Tool - MacOs
 
 [![Download VisionMD](https://img.icons8.com/material-outlined/50/000000/download--v1.png)](https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip?rlkey=bgmthf22fxy8g6chsqo3r8d2k&st=6jl50jcg&dl=0) 
 
-## Installation Instructions - MacOs
+# Installation Instructions - MacOs
 
 1. **Unzip the File**  
    Once downloaded, unzip the file.
@@ -67,7 +67,7 @@ layout: default
    Once you are done using VisionMD, return to the Terminal window and hit `CONTROL + C`.  
    Close the Terminal window and then close Google Chrome.
 
-## Sample Data
+# Sample Data
 Click to get sample videos to process using VisionMD
 <br>
 <br>
