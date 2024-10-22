@@ -66,7 +66,7 @@ layout: default
    Quit the server with CONTROL-C.
     ```
 5. **Open Google Chrome**  
-   (This program has only been tested with Google Chrome; other browsers might provide unexpected behavior.)
+   This program has only been tested with Google Chrome; other browsers might provide unexpected behavior.
 
 6. **Access the Application**  
    In the URL bar, type: `http://127.0.0.1:8080` and hit Enter.  
