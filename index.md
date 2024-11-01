@@ -61,7 +61,7 @@ layout: default
    Once you are done using VisionMD, return to the Terminal window and hit `CONTROL + C`.  
    Close the Terminal window and then close Google Chrome.
 
-# Sample Data
+# Sample Videos
 Click to get sample videos to process using VisionMD
 <br>
 <br>
