@@ -80,3 +80,11 @@ Click to get sample videos to process using VisionMD
   <img src="files/sample_data.png" alt="Sample Data" width="500">
 </a>
 
+# Kinematic Measures Sample Data
+
+This data was collected from two cohorts of Parkinson's Disease patients to illustrate VisionMD's capability in assessing the impact of different therapies. Each patient underwent two recording sessions: one with their therapy "on" and another with it "off." The therapies assessed included:
+
+1. **Deep Brain Stimulation (DBS)**
+2. **Dopaminergic Medication**
+
+The Excel file contains each row as a separate recording. For more details and to download the data, visit the [Kinematic Data GitHub Page](https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData).
