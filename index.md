@@ -84,6 +84,16 @@ A <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/Kin
 
 ### Example code
 <pre><code class="language-python">
+import pandas as pd
+import numpy as np
+import pingouin
+
+# function to highlight significant p-values
+# signficance after Bonferroni Correction is set to p-val < 0.05/23 => 0.002
+def highlight_pval(val):
+    color = 'yellow' if val < 0.002 else ''
+    return f'background-color: {color}'
+
 # loading DBS on and off dataframes 
 df = pd.read_excel("Sample_Data.xlsx")
 off_df = df[df['Condition'].str.contains('off', case=False, na=False)]
