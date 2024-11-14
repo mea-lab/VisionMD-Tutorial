@@ -82,9 +82,9 @@ The Excel file contains each row as a separate recording. For more details and t
 <br><br>
 A <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData/data_analysis.ipynb">sample code</a> analyzing the sample data is also provided. Analysis includes a paired t-test for each kinematic measure to compare "on" and "off" therapy sessions. This analysis is performed separately for patients undergoing Deep Brain Stimulation and those receiving Dopaminergic Medication, allowing users to assess the effects of each therapy on motor function.
 
-
+### Example code
 ```python
-# loading DBS on and off dataframes 
+# loading on and off dataframes 
 df = pd.read_excel("Sample_Data.xlsx")
 off_df = df[df['Condition'].str.contains('off', case=False, na=False)]
 on_df = df[df['Condition'].str.contains('on', case=False, na=False)]
