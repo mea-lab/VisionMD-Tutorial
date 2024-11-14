@@ -71,6 +71,13 @@ Click to get sample videos to process using VisionMD
   </a>
 </div>
 
+### How to download videos from GitHub
+1. Select the video you want to download
+2. Click the download button
+3. <div align="center">
+    <img src="files/download_video.jpg" alt="Pipeline" />
+</div>
+
 # Kinematic Measures Sample Data
 
 This data was collected from two cohorts of Parkinson's Disease patients to illustrate VisionMD's capability in assessing the impact of different therapies. Each patient underwent two recording sessions: one with their therapy "on" and another with it "off." The therapies assessed included:
