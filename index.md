@@ -83,16 +83,16 @@ The Excel file contains each row as a separate recording. For more details and t
 A <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData/data_analysis.ipynb">sample code</a> analyzing the sample data is also provided. Analysis includes a paired t-test for each kinematic measure to compare "on" and "off" therapy sessions. This analysis is performed separately for patients undergoing Deep Brain Stimulation and those receiving Dopaminergic Medication, allowing users to assess the effects of each therapy on motor function.
 
 ### Example code
-```python
-# loading on and off dataframes 
+<pre><code class="language-python">
+# loading DBS on and off dataframes 
 df = pd.read_excel("Sample_Data.xlsx")
 off_df = df[df['Condition'].str.contains('off', case=False, na=False)]
 on_df = df[df['Condition'].str.contains('on', case=False, na=False)]
 
 features = list(df.columns)[3:]
 
-# paired t-test  and statistics for each kinematic feature
-results = pd.DataFrame(columns=['meanON', 'sdON', 'meanOFF', 'sdOFF','T-val','p-val'])
+# paired t-test and statistics for each kinematic feature
+results = pd.DataFrame(columns=['meanON', 'sdON', 'meanOFF', 'sdOFF', 'T-val', 'p-val'])
 for f in features:
     off = np.array(off_df[f])
     on = np.array(on_df[f])
@@ -103,7 +103,8 @@ for f in features:
                       round(np.std(on), 5),
                       round(np.mean(off), 5),
                       round(np.std(off), 5),
-                      round(ttest_result['T'][0],5), 
-                      round(ttest_result['p-val'][0],5)]
+                      round(ttest_result['T'][0], 5), 
+                      round(ttest_result['p-val'][0], 5)]
 
-results.style.applymap(highlight_pval, subset=['p-val']).format(precision=5)```
+results.style.applymap(highlight_pval, subset=['p-val']).format(precision=5)
+</code></pre>
