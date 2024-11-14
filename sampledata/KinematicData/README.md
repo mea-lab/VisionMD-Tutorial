@@ -4,4 +4,4 @@ The following therapies were assessed:
 1. <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData/DBS_Sample_Data.xlsx">Deep Bran Stimulation</a>
 2. <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData/MED_Sample_Data.xlsx">Dopaminergic Medication</a>
 <br>
-<a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData/data_analysis.ipynb">Sample code</a> for statistical analysis is provided 
+We also provide a <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData/data_analysis.ipynb">sample code</a> for statistical analysis to detect singificant different kienmatic features between 'on' and 'off' groups.
