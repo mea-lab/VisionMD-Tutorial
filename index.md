@@ -75,7 +75,7 @@ Click to get sample videos to process using VisionMD
 1. Select the video you want to download
 2. Click the download button
 <div align="center">
-    <img src="files/download_video.jpg" alt="Download Video" />
+    <img src="files/donwload_video.jpg" alt="Download Video" />
 </div>
 
 # Kinematic Measures Sample Data
