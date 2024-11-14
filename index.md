@@ -74,7 +74,7 @@ Click to get sample videos to process using VisionMD
 ### How to download videos from GitHub
 1. Select the video you want to download
 2. Click the download button
-3. <div align="center">
+<div align="center">
     <img src="files/download_video.jpg" alt="Download Video" />
 </div>
 
