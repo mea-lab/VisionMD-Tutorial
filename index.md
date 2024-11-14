@@ -83,7 +83,7 @@ The Excel file contains each row as a separate recording. For more details and t
 A <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData/data_analysis.ipynb">sample code</a> analyzing the sample data is also provided. Analysis includes a paired t-test for each kinematic measure to compare "on" and "off" therapy sessions. This analysis is performed separately for patients undergoing Deep Brain Stimulation and those receiving Dopaminergic Medication, allowing users to assess the effects of each therapy on motor function.
 
 ### Example code
-<pre><code class="language-python">
+```python
 import pandas as pd
 import numpy as np
 import pingouin
@@ -106,9 +106,9 @@ results = pd.DataFrame(columns=['meanON', 'sdON', 'meanOFF', 'sdOFF', 'T-val', '
 for f in features:
     off = np.array(off_df[f])
     on = np.array(on_df[f])
-    
+
     ttest_result = pingouin.ttest(on, off, paired=True)
-    
+
     results.loc[f] = [round(np.mean(on), 5),
                       round(np.std(on), 5),
                       round(np.mean(off), 5),
@@ -117,4 +117,3 @@ for f in features:
                       round(ttest_result['p-val'][0], 5)]
 
 results.style.applymap(highlight_pval, subset=['p-val']).format(precision=5)
-</code></pre>
