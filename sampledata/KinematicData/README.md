@@ -4,4 +4,4 @@ The following therapies were assessed:
 1. Deep Bran Stimulation
 2. Dopaminergic Medication
 <br>
-Sample code for statistical analysis is provided in a Jupyter Notebook 
+Sample code for statistical analysis is provided 
