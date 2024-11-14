@@ -3,5 +3,5 @@ Each patient was recorded twice, with their therapy "on" and with their therapy 
 The following therapies were assessed:
 1. Deep Bran Stimulation
 2. Dopaminergic Medication
-\n
+<br>
 Sample code for statistical analysis is provided in a Jupyter Notebook 
