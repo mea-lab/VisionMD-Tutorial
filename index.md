@@ -19,7 +19,7 @@ layout: default
 
 # Abstract
 <div style="background-color: #C7EFCF; padding: 10px; border-radius: 5px; margin: 20px 0;">
-  <p>Assessing motor function is crucial for Parkinson’s disease (PD) management, yet  the widely used MDS-UPDRS has significant limitations, largely owing to rater subjectivity. We introduce VisionMD, an open-source software for semi-automatic motor function analysis from videos of the MDS-UPDRS motor tasks, enhancing objectivity and accessibility. Two datasets were analyzed to validate VisionMD, each featuring 12 PD patients performing a Finger Tapping (FT) task under varying interventional conditions: Deep Brain Stimulation (DBS-ON/OFF) and dopaminergic medication. Significant differences were observed in movement variability between DBS-ON/OFF and movement speed between MED-ON/OFF. VisionMD demonstrated excellent inter-rater reliability (ICC = 0.96 – 1.00) compared to traditional MDS-UPDRS evaluation (ICC = 0.74). VisionMD provides a scalable, objective tool for assessing motor symptoms in persons with movement disorders, offering high reliability and potential for widespread clinical and research use</p>
+  <p>VisionMD, an open-source software for automated video-based analysis of MDS-UPDRS Part III motor tasks, offers precise, objective, and scalable assessments of motor symptoms in Parkinson’s disease and other movement disorders. Leveraging deep learning, VisionMD tracks body movements to compute kinematic features that quantify symptoms severity and supports longitudinal monitoring. VisionMD’s user-friendly, customizable framework empowers clinicians and researchers to objectively evaluate motor symptoms in persons with movement disorders without specialized hardware.</p>
 </div>
 
 # Pipeline
