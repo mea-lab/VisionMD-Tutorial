@@ -8,5 +8,4 @@ description: An user-friendly, open-source software platform designed to automat
 show_downloads: true
 github:
   repository_url: https://github.com/mea-lab/VideoAnalysisToolBackend/tree/dev
-  zip_mac_url: https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip
-  zip_windows_url: https://www.dropbox.com/scl/fi/jbdez33a2res7xn7sj632/VisionMD_Windows.zip?rlkey=4c7j2tkvq8ggalkvfc99qbx2n&e=1&st=fxx9cbbj&dl=0
+  zip_url: https://www.dropbox.com/scl/fi/u43mwolb57ph6834v07d2/VisionMD_MacOS.zip
