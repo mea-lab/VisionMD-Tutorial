@@ -90,4 +90,10 @@ The Excel file contains each row as a separate recording. For more details and t
 A <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/KinematicData/data_analysis.ipynb">sample code</a> analyzing the data to reproduce results presented in the paper is provided. Analysis includes a paired t-test for each kinematic measure to compare "on" and "off" therapy sessions. This analysis is performed separately for patients undergoing Deep Brain Stimulation and those receiving Dopaminergic Medication, allowing users to assess the effects of each therapy on motor function.
 
 # News
+## Publications
+<a href="https://www.nature.com/articles/s41531-025-01082-0">Video analysis reveals early signs of Bradykinesia in REM sleep behavior disorder and Parkinson’s disease</a>
+<a href="https://www.nature.com/articles/s41531-025-00999-w">Computer vision uncovers three fundamental dimensions of levodopa-responsive motor improvement in Parkinson’s disease</a>
+<a href="https://www.nature.com/articles/s41531-025-00876-6">VisionMD: an open-source tool for video-based analysis of motor function in movement disorders</a>
+
+## Posts
 <a href="https://fixel.ufhealth.org/2025/02/27/bringing-ai-powered-movement-disorder-assessments-to-clinics-and-homes-with-visionmd/">Bringing AI-Powered Movement Disorder Assessments to Clinics and Homes with VisionMD</a>
