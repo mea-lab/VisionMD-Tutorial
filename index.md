@@ -92,8 +92,10 @@ A <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/Kin
 # News
 ## Publications
 <a href="https://www.nature.com/articles/s41531-025-01082-0">Video analysis reveals early signs of Bradykinesia in REM sleep behavior disorder and Parkinson’s disease</a>
+<br><br>
 <a href="https://www.nature.com/articles/s41531-025-00999-w">Computer vision uncovers three fundamental dimensions of levodopa-responsive motor improvement in Parkinson’s disease</a>
+<br><br>
 <a href="https://www.nature.com/articles/s41531-025-00876-6">VisionMD: an open-source tool for video-based analysis of motor function in movement disorders</a>
 
-## Posts
+## Highlights
 <a href="https://fixel.ufhealth.org/2025/02/27/bringing-ai-powered-movement-disorder-assessments-to-clinics-and-homes-with-visionmd/">Bringing AI-Powered Movement Disorder Assessments to Clinics and Homes with VisionMD</a>
