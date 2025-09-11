@@ -98,6 +98,8 @@ A <a href="https://github.com/mea-lab/VisionMD-Tutorial/tree/main/sampledata/Kin
 - <a href="https://www.nature.com/articles/s41531-025-00876-6">VisionMD: an open-source tool for video-based analysis of motor function in movement disorders</a>-NPJ Parkinson's Disease, February 2025
 
 ## From the press
+- <a href="https://news.ufl.edu/2025/09/ai-detects-hidden-movement-clues/">AI detects hidden movement clues linked to brain disorders, study shows</a>
+<br><br>
 - <a href="https://fixel.ufhealth.org/2025/02/27/bringing-ai-powered-movement-disorder-assessments-to-clinics-and-homes-with-visionmd/">Bringing AI-Powered Movement Disorder Assessments to Clinics and Homes with VisionMD</a>
 <br><br>
 - <a href="https://news.ufl.edu/2024/07/parkinsons-video-test/">New video test for Parkinson’s uses AI to track how the disease is progressing </a>
